@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "courses": "Cours",
+    "about": "À propos",
+    "contact": "Contact",
+    "signIn": "Se connecter",
+    "getStarted": "Commencer",
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "logout": "Déconnexion",
+    "privacy": "Tableau de bord de confidentialité",
+    "admin": "Admin"
+  },
+  "hero": {
+    "title": "L'éducation pour tous",
+    "subtitle": "Expériences d'apprentissage inclusives conçues pour toutes les capacités. Rejoignez des milliers d'apprenants dans leur parcours vers le succès.",
+    "cta": {
+      "start": "Commencer à apprendre",
+      "explore": "Explorer les cours"
+    },
+    "stats": {
+      "students": "Étudiants actifs",
+      "courses": "Cours de qualité",
+      "teachers": "Professeurs experts"
+    }
+  },
+  "features": {
+    "title": "Conçu pour l'accessibilité",
+    "subtitle": "Notre plateforme est conçue dès le départ pour être accessible aux apprenants de toutes capacités."
+  },
+  "auth": {
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "fullName": "Nom complet",
+    "forgotPassword": "Mot de passe oublié?",
+    "noAccount": "Pas de compte?",
+    "hasAccount": "Vous avez déjà un compte?",
+    "signInWithGoogle": "Se connecter avec Google"
+  },
+  "privacy": {
+    "title": "Tableau de bord de confidentialité",
+    "subtitle": "Gérez vos données personnelles et paramètres de confidentialité"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "close": "Fermer"
+  }
+}

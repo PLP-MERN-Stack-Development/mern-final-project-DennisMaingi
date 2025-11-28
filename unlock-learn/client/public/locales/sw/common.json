@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "Nyumbani",
+    "courses": "Kozi",
+    "about": "Kuhusu",
+    "contact": "Wasiliana",
+    "signIn": "Ingia",
+    "getStarted": "Anza",
+    "profile": "Wasifu",
+    "settings": "Mipangilio",
+    "logout": "Toka",
+    "privacy": "Dashibodi ya Faragha",
+    "admin": "Msimamizi"
+  },
+  "hero": {
+    "title": "Elimu kwa Kila Mtu",
+    "subtitle": "Uzoefu wa kujifunza wa jumuishi uliobuniwa kwa uwezo wote. Jiunge na maelfu ya wanafunzi katika safari yao ya mafanikio.",
+    "cta": {
+      "start": "Anza Kujifunza",
+      "explore": "Chunguza Kozi"
+    },
+    "stats": {
+      "students": "Wanafunzi Hai",
+      "courses": "Kozi za Ubora",
+      "teachers": "Walimu Wataalam"
+    }
+  },
+  "features": {
+    "title": "Imejengwa kwa Ufikiaji",
+    "subtitle": "Jukwaa letu limebuniwa kutoka msingi kuwa la kufikiwa kwa wanafunzi wa uwezo wote.",
+    "screenReader": "Usaidizi wa Msomaji wa Skrini",
+    "captions": "Manukuu ya Moja kwa Moja",
+    "keyboard": "Urambazaji wa Kibodi",
+    "contrast": "Hali ya Tofauti Kubwa",
+    "textToSpeech": "Maandishi-hadi-Hotuba",
+    "adjustable": "Maandishi Yanayoweza Kurekebishwa"
+  },
+  "auth": {
+    "signIn": "Ingia",
+    "signUp": "Jisajili",
+    "email": "Barua pepe",
+    "password": "Nywila",
+    "confirmPassword": "Thibitisha Nywila",
+    "fullName": "Jina Kamili",
+    "forgotPassword": "Umesahau Nywila?",
+    "noAccount": "Huna akaunti?",
+    "hasAccount": "Tayari una akaunti?",
+    "signInWithGoogle": "Ingia na Google"
+  },
+  "privacy": {
+    "title": "Dashibodi ya Faragha",
+    "subtitle": "Dhibiti data yako binafsi na mipangilio ya faragha",
+    "dataExport": {
+      "title": "Hamisha Data Yako",
+      "description": "Pakua nakala ya data yako yote ya kibinafsi",
+      "button": "Omba Uhamishaji wa Data"
+    },
+    "dataDeletion": {
+      "title": "Futa Akaunti Yako",
+      "description": "Futa akaunti yako na data zote zinazohusiana kabisa",
+      "button": "Omba Ufutaji wa Akaunti"
+    }
+  },
+  "common": {
+    "loading": "Inapakia...",
+    "error": "Hitilafu imetokea",
+    "success": "Mafanikio",
+    "cancel": "Ghairi",
+    "confirm": "Thibitisha",
+    "close": "Funga"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "unlock-learn-server",
+  "version": "1.0.0",
+  "type": "module",
+"scripts": {
+  "dev": "ts-node-dev --respawn --transpile-only src/server.ts",
+  "start": "ts-node src/server.ts",
+  "migrate": "ts-node src/migrations/migrateData.ts"
+},
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "express-rate-limit": "^6.10.0",
+    "helmet": "^7.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.8.7",
+    "morgan": "^1.10.1",
+    "socket.io": "^4.8.1",
+    "stripe": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/body-parser": "^1.19.6",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.5",
+    "@types/helmet": "^0.0.48",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/mongoose": "^5.11.96",
+    "@types/morgan": "^1.9.10",
+    "@types/node": "^24.10.1",
+    "@types/socket.io": "^3.0.1",
+    "@types/stripe": "^8.0.416",
+    "nodemon": "^3.1.11",
+    "ts-node-esm": "^10.9.1",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.9.3"
+  }
+}

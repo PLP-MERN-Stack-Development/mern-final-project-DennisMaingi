@@ -1,0 +1,142 @@
+{
+  "nav": {
+    "home": "Home",
+    "courses": "Courses",
+    "about": "About",
+    "contact": "Contact",
+    "signIn": "Sign In",
+    "getStarted": "Get Started",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "privacy": "Privacy Dashboard",
+    "admin": "Admin"
+  },
+  "hero": {
+    "title": "Education for Everyone",
+    "subtitle": "Inclusive learning experiences designed for all abilities. Join thousands of learners on their journey to success.",
+    "cta": {
+      "start": "Start Learning",
+      "explore": "Explore Courses"
+    },
+    "stats": {
+      "students": "Active Students",
+      "courses": "Quality Courses",
+      "teachers": "Expert Teachers"
+    }
+  },
+  "features": {
+    "title": "Built for Accessibility",
+    "subtitle": "Our platform is designed from the ground up to be accessible to learners of all abilities.",
+    "screenReader": {
+      "title": "Screen Reader Support",
+      "description": "Full compatibility with screen readers for visually impaired learners."
+    },
+    "captions": {
+      "title": "Live Captions",
+      "description": "Real-time captions and transcripts for all video content."
+    },
+    "keyboard": {
+      "title": "Keyboard Navigation",
+      "description": "Complete keyboard accessibility without requiring a mouse."
+    },
+    "contrast": {
+      "title": "High Contrast Mode",
+      "description": "Customizable color schemes for users with visual sensitivities."
+    },
+    "textToSpeech": {
+      "title": "Text-to-Speech",
+      "description": "Convert any text content to natural-sounding speech."
+    },
+    "adjustable": {
+      "title": "Adjustable Text",
+      "description": "Customize font size, spacing, and style for comfortable reading."
+    }
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signInWithGoogle": "Sign in with Google",
+    "or": "OR",
+    "enable2FA": "Enable Two-Factor Authentication",
+    "disable2FA": "Disable Two-Factor Authentication",
+    "twoFactorCode": "Two-Factor Code",
+    "verify": "Verify"
+  },
+  "privacy": {
+    "title": "Privacy Dashboard",
+    "subtitle": "Manage your personal data and privacy settings",
+    "dataExport": {
+      "title": "Export Your Data",
+      "description": "Download a copy of all your personal data",
+      "button": "Request Data Export",
+      "pending": "Export Pending"
+    },
+    "dataDeletion": {
+      "title": "Delete Your Account",
+      "description": "Permanently delete your account and all associated data",
+      "button": "Request Account Deletion",
+      "warning": "This action cannot be undone"
+    },
+    "dataCorrection": {
+      "title": "Correct Your Data",
+      "description": "Request corrections to your personal information",
+      "button": "Request Data Correction"
+    },
+    "requests": {
+      "title": "Your Privacy Requests",
+      "noRequests": "No privacy requests yet",
+      "status": {
+        "pending": "Pending",
+        "processing": "Processing",
+        "completed": "Completed",
+        "rejected": "Rejected"
+      }
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "timezone": "Timezone",
+    "currency": "Preferred Currency",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "accessibility": "Accessibility",
+    "save": "Save Changes",
+    "saved": "Settings saved successfully"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "search": "Search",
+    "filter": "Filter",
+    "all": "All"
+  },
+  "courses": {
+    "level": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "enroll": "Enroll Now",
+    "enrolled": "Enrolled",
+    "students": "students",
+    "duration": "duration",
+    "applyCoupon": "Apply Coupon Code",
+    "couponPlaceholder": "Enter coupon code",
+    "apply": "Apply",
+    "discount": "Discount Applied"
+  }
+}
