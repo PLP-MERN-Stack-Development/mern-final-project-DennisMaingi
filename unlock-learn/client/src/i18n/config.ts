@@ -12,8 +12,8 @@ i18n
     fallbackLng: 'en',
     debug: false,
     supportedLngs: ['en', 'sw', 'fr', 'ar', 'he'],
-    ns: ['translation'], // default namespace
-    defaultNS: 'translation',
+    ns: ['common'], // default namespace
+    defaultNS: 'common',
     interpolation: {
       escapeValue: false,
     },
