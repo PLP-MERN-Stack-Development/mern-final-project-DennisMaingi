@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Play, CheckCircle, Star, Users, BookOpen, Accessibility, Globe, Headphones, Download, Award, UsersRound } from "lucide-react";
-import heroImage from "@/assets/hero-education.jpg";
+
 import { NeonButton } from "@/components/NeonButton";
 
 /* ────────────────────────────────────────────── */
@@ -59,7 +59,7 @@ const Hero = () => (
 
         <div className="relative">
           <div className="relative rounded-3xl overflow-hidden shadow-2xl">
-            <img src={heroImage} alt="Students learning" className="w-full h-auto object-cover" />
+            <img src="/hero-education.jpg" alt="Students learning" className="w-full h-auto object-cover" />
           </div>
         </div>
       </div>
