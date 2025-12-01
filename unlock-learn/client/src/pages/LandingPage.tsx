@@ -59,7 +59,7 @@ const Hero = () => (
 
         <div className="relative">
           <div className="relative rounded-3xl overflow-hidden shadow-2xl">
-            <img src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=600&fit=crop" alt="Students learning" className="w-full h-auto object-cover" />
+            <img src="https://images.pexels.com/photos/8613089/pexels-photo-8613089.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Students learning" className="w-full h-auto object-cover" />
           </div>
         </div>
       </div>
