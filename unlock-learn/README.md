@@ -260,4 +260,6 @@ For questions or support, please contact the development team.
 
 ---
 
-**Built with ❤️ for inclusive education**
+deployment links 
+frontend: https://mern-final-project-dennismaingi-6-9fes.onrender.com/
+backend: https://mern-final-project-dennismaingi-6.onrender.com
