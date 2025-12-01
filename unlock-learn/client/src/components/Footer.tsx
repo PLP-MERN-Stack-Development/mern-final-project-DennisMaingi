@@ -42,10 +42,10 @@ export const Footer = () => {
           <div>
             <h4 className="font-semibold mb-4">Support</h4>
             <ul className="space-y-2 text-sm text-[var(--muted)]">
-              <li><a href="/help" className="hover:text-[var(--primary-600)] transition-colors">Help Center</a></li>
-              <li><a href="/contact" className="hover:text-[var(--primary-600)] transition-colors">Contact Us</a></li>
-              <li><a href="/privacy" className="hover:text-[var(--primary-600)] transition-colors">Privacy Policy</a></li>
-              <li><a href="/terms" className="hover:text-[var(--primary-600)] transition-colors">Terms of Service</a></li>
+              <li><a href="#" className="hover:text-[var(--primary-600)] transition-colors">Help Center</a></li>
+              <li><a href="#" className="hover:text-[var(--primary-600)] transition-colors">Contact Us</a></li>
+              <li><a href="#" className="hover:text-[var(--primary-600)] transition-colors">Privacy Policy</a></li>
+              <li><a href="#" className="hover:text-[var(--primary-600)] transition-colors">Terms of Service</a></li>
             </ul>
           </div>
 
@@ -54,9 +54,9 @@ export const Footer = () => {
             <h4 className="font-semibold mb-4">Quick Links</h4>
             <ul className="space-y-2 text-sm text-[var(--muted)]">
               <li><a href="/courses" className="hover:text-[var(--primary-600)] transition-colors">Browse Courses</a></li>
-              <li><a href="/about" className="hover:text-[var(--primary-600)] transition-colors">About Us</a></li>
-              <li><a href="/accessibility" className="hover:text-[var(--primary-600)] transition-colors">Accessibility</a></li>
-              <li><a href="/pricing" className="hover:text-[var(--primary-600)] transition-colors">Pricing</a></li>
+              <li><a href="#" className="hover:text-[var(--primary-600)] transition-colors">About Us</a></li>
+              <li><a href="#" className="hover:text-[var(--primary-600)] transition-colors">Accessibility</a></li>
+              <li><a href="#" className="hover:text-[var(--primary-600)] transition-colors">Pricing</a></li>
             </ul>
           </div>
 
